@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-We have two PhD open positions at LIP6 (Sorbonne Université) on Building a traffic map of the Internet and Measuring event impact and propagation in the Internet.
+We have two PhD open positions at LIP6 (Sorbonne Université) on "Building a traffic map of the Internet" and "Measuring event impact and propagation in the Internet".
 
 ---
 

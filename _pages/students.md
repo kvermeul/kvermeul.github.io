@@ -2,7 +2,7 @@
 layout: page
 permalink: /students/
 title: students
-description: I supervise undergrad, masters and doctoral students. 
+description: I supervise undergrad, master and doctoral students. 
 nav: true
 nav_order: 7
 ---

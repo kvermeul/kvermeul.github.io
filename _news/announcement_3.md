@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-10-30 
+date: 2024-06-19 
 inline: true
 related_posts: false
 ---
 
-Our paper "Replication: Towards a Publicly Available Internet scale IP Geolocation Dataset" was awarded best artifact award at ACM IMC 2023. Congrats to my students Omar, Hugo, and Milo!
+My student, Omar Darwich, was awarded a JSPS fellowship to go to Japan for 6 months! Great collaboration incoming. 

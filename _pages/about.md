@@ -39,6 +39,7 @@ I am the maintainer of the [Reverse Traceroute](https://github.com/NEU-SNS/revtr
 
 - Best artifact award for our paper "Replication: Towards a Publicly Available Internet scale IP Geolocation Dataset" (ACM IMC 2023)
 - Best short paper award for our paper "The best of both worlds: high availability CDN routing without compromising control" (ACM IMC 2022)
+- Best paper award for our paper "GeoGiant: Vers une géolocalisation d'adresses IP à l'échelle grâce aux géants d'Internet" (CoRes 2024)
 
 <!--- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

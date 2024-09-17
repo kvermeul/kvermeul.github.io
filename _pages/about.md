@@ -33,7 +33,7 @@ Before joining the CNRS, I was a postdoc at Columbia University working with pro
 
 I obtained my doctorate in 2020 under the supervision of professor Timur Friedman at Sorbonne Université.
 
-I am the maintainer of the [Reverse Traceroute](https://github.com/NEU-SNS/revtrvp) system. The system currently runs half a million reverse traceroutes per day in coordination with the [M-Lab](https://www.measurementlab.net) NDT speedtests. The data are publicly available [here](https://console.cloud.google.com/storage/browser/archive-measurement-lab/autoload/v1/revtr;tab=objects?prefix=&forceOnObjectsSortingFiltering=false).   
+I am the maintainer of the [Reverse Traceroute](https://github.com/NEU-SNS/revtrvp) system. The system currently runs more than a million reverse traceroutes per day in coordination with the [M-Lab](https://www.measurementlab.net) NDT speedtests. The data are publicly available [here](https://console.cloud.google.com/storage/browser/archive-measurement-lab/autoload/v1/revtr;tab=objects?prefix=&forceOnObjectsSortingFiltering=false).   
 
 ### Awards:
 

@@ -7,6 +7,8 @@ nav: true
 nav_order: 8
 ---
 
+
+### Note
 I attach a particular importance to share the code and the data collected during my research to enable replicability and reproducibility, which have been recognized by my community with artifact evaluation badges and artifact award. In addition to these objectives, I actively participate in the development and the maintenance of long-running measurement systems for the community. 
 
 Diamond-Miner: The Diamond-Miner system runs on the Iris platform [https://iris.dioptra.io](https://iris.dioptra.io) and has been running Internet topology multipath measurements for multiple years now, and the data have been used by multiple papers. The code has been refactored since by Matthieu Gouel and Maxime Mouchet and is available on github [https://github.com/dioptra-io](https://github.com/dioptra-io). The dioptra group at Sorbonne Université are the current maintainers of the system. Also, although I am not involved in that project, a new implementation of the Diamond-Miner algorithm is currently tested to replace the scamper implementation of multipath tracing on the M-Lab traceroutes following each NDT speedtest [https://www.measurementlab.net/blog/jun24-community-call/#testing-fast-mda-traceroute](https://www.measurementlab.net/blog/jun24-community-call/#testing-fast-mda-traceroute). 

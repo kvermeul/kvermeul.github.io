@@ -11,14 +11,14 @@ profile:
   more_info: >
     <p>LIX</p>
     <p>1 Rue Honoré d'Estienne d'Orves</p>
-    <p>Palaiseay, 91120, France</p>
+    <p>Palaiseau, 91120, France</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Kevin Vermeulen, a full-time CNRS researcher at LIX, Ecole Polytechnique, Palaiseau, France. 
+I am Kevin Vermeulen, a CNRS researcher at LIX, Ecole Polytechnique, Palaiseau, France. Until March 2025, I was a CNRS researcher at LAAS-CNRS. 
 
 I am interested in building networked measurement systems to better understand and improve the Internet.
 

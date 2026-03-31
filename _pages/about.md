@@ -37,6 +37,7 @@ I am the maintainer of the [Reverse Traceroute](https://github.com/NEU-SNS/revtr
 
 ### Awards:
 
+- Best paper award for our paper "Unpacking Internet Ossification: A Large-Scale Study of Path-Impairing Middleboxes Across IPv4 and IPv6" (PAM 2026)
 - Best paper award for our paper "The New (Pareto) Frontier of Cloud Routing: High Availability, Precise Control, or Configuration Stability-Choose Two" (ACM CoNEXT 2025)
 - Best paper award for our paper "GeoGiant: Vers une géolocalisation d'adresses IP à l'échelle grâce aux géants d'Internet" (CoRes 2024)
 - Best artifact award for our paper "Replication: Towards a Publicly Available Internet scale IP Geolocation Dataset" (ACM IMC 2023)
